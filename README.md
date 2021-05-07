@@ -18,7 +18,6 @@
 4. Tiles Layout
 
 - one column layout on a smaller screen, two and three column layout for a bigger screen and a tiles layout for the biggest screen; using grid template aria
-  ![test](/Users/sweta/Desktop/HTML_CSS/CSS/CSS-Grid-Mini-Projects/images/Screenshot 2021-05-07 at 15.27.52.png)
 
 5. Layout
 
