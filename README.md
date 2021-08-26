@@ -9,6 +9,10 @@
 2. Hero
 
 - a banner placed in the center; different backgrounds for small and large screens
+<p align-items: center>
+    <img src='./images/02-hero.png' width='500'>
+</p>
+<br/><br/>
 
 3. Cards
 
